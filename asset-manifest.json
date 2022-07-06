@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/DudaKristian/goit-react-hw-01-components/static/css/main.37848cad.css",
-    "main.js": "/DudaKristian/goit-react-hw-01-components/static/js/main.f9db8f8d.js",
+    "main.css": "/DudaKristian/goit-react-hw-01-components/static/css/main.3b956cb8.css",
+    "main.js": "/DudaKristian/goit-react-hw-01-components/static/js/main.f7976357.js",
     "index.html": "/DudaKristian/goit-react-hw-01-components/index.html",
-    "main.37848cad.css.map": "/DudaKristian/goit-react-hw-01-components/static/css/main.37848cad.css.map",
-    "main.f9db8f8d.js.map": "/DudaKristian/goit-react-hw-01-components/static/js/main.f9db8f8d.js.map"
+    "main.3b956cb8.css.map": "/DudaKristian/goit-react-hw-01-components/static/css/main.3b956cb8.css.map",
+    "main.f7976357.js.map": "/DudaKristian/goit-react-hw-01-components/static/js/main.f7976357.js.map"
   },
   "entrypoints": [
-    "static/css/main.37848cad.css",
-    "static/js/main.f9db8f8d.js"
+    "static/css/main.3b956cb8.css",
+    "static/js/main.f7976357.js"
   ]
 }
