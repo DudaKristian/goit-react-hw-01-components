@@ -29,7 +29,7 @@ TransactionHistory.propTypes = {
     stats: PropTypes.arrayOf(
         PropTypes.shape({
         type: PropTypes.string.isRequired,
-        amount: PropTypes.number.isRequired,
+        amount: PropTypes.string.isRequired,
         currency: PropTypes.string.isRequired,
         id: PropTypes.string.isRequired,
         })
